@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.DS_Store
+data/*.pdf
+data/corpus.json
+
+# Local environments
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Local financial documents and generated corpus
+data/*.pdf
+data/corpus.json
+
+# Private interview preparation
+docs/INTERVIEW_PREP.md

@@ -1,0 +1,9 @@
+[
+ {"question":"What was Microsoft's total revenue in FY2025?","expected":"msft25-revenue","expected_text":"281.7"},
+ {"question":"What was operating profit in FY2025?","expected":"msft25-operating","expected_text":"128.5"},
+ {"question":"What was net profit?","expected":"msft25-net","expected_text":"101,832"},
+ {"question":"What financial risk arises from AI infrastructure spending?","expected":"msft25-risk","expected_text":"operating margins"},
+ {"question":"What business risks relate to competition?","expected":"msft25-competition","expected_text":"competitive"},
+ {"question":"How much income tax was paid?","expected":"msft25-tax","expected_text":"28.7"},
+ {"question":"What is the CEO's favorite pizza topping?","expected":null,"expected_text":null}
+]

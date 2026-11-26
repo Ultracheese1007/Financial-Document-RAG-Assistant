@@ -1,0 +1,31 @@
+{
+  "mode": "extractive",
+  "status": "evidence_found",
+  "answer": "Microsoft consolidated operating income (operating profit) for fiscal year 2025 was USD 128.5 billion, up 17% year over year. [msft25-operating]",
+  "claims": [
+    {
+      "text": "Microsoft consolidated operating income (operating profit) for fiscal year 2025 was USD 128.5 billion, up 17% year over year.",
+      "source_ids": [
+        "msft25-operating"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "msft25-operating",
+      "company": "Microsoft",
+      "fiscal_year": 2025,
+      "source": "Microsoft FY2025 Annual Report",
+      "url": "https://www.microsoft.com/investor/reports/ar25/",
+      "section": "CEO letter / Financial performance",
+      "page": null,
+      "kind": "curated fact",
+      "text": "Microsoft consolidated operating income (operating profit) for fiscal year 2025 was USD 128.5 billion, up 17% year over year.",
+      "score": 0.5303
+    }
+  ],
+  "retrieved_ids": [
+    "msft25-operating"
+  ],
+  "latency_ms": 0.93
+}

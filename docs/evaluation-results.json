@@ -1,0 +1,58 @@
+{
+  "cases": 7,
+  "hit_at_1": 1.0,
+  "hit_at_3": 1.0,
+  "checks_passed": 7,
+  "mean_latency_ms": 0.61,
+  "results": [
+    {
+      "question": "What was Microsoft's total revenue in FY2025?",
+      "expected": "msft25-revenue",
+      "rank": 1,
+      "passed": true,
+      "latency_ms": 1.07
+    },
+    {
+      "question": "What was operating profit in FY2025?",
+      "expected": "msft25-operating",
+      "rank": 1,
+      "passed": true,
+      "latency_ms": 0.62
+    },
+    {
+      "question": "What was net profit?",
+      "expected": "msft25-net",
+      "rank": 1,
+      "passed": true,
+      "latency_ms": 0.5
+    },
+    {
+      "question": "What financial risk arises from AI infrastructure spending?",
+      "expected": "msft25-risk",
+      "rank": 1,
+      "passed": true,
+      "latency_ms": 0.5
+    },
+    {
+      "question": "What business risks relate to competition?",
+      "expected": "msft25-competition",
+      "rank": 1,
+      "passed": true,
+      "latency_ms": 0.46
+    },
+    {
+      "question": "How much income tax was paid?",
+      "expected": "msft25-tax",
+      "rank": 1,
+      "passed": true,
+      "latency_ms": 0.47
+    },
+    {
+      "question": "What is the CEO's favorite pizza topping?",
+      "expected": null,
+      "rank": null,
+      "passed": true,
+      "latency_ms": 0.62
+    }
+  ]
+}
